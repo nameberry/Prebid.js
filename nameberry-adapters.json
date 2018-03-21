@@ -1,0 +1,16 @@
+[
+    "amazon",
+    "aol",
+    "rubicon",
+    "sovrn",
+    "criteo",
+    "appnexus",
+    {
+      "appnexus": {
+        "alias": "brealtime"
+      }
+    },
+    "rhythmone",
+    "conversant",
+    "indexExchange"
+]
